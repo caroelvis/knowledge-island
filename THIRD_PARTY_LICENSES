@@ -90,3 +90,12 @@ LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
 OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
 SOFTWARE.
 
+
+--------------------------------------------------------------------
+注音粉圓 BpmfHuninn（bpmf-huninn-subset.woff2，一、二年級注音字型）
+Copyright 2025 But Ko — https://github.com/ButTaiwan/bpmfvs
+衍生自 jf open 粉圓（justfont），以 SIL Open Font License 1.1 授權：
+https://openfontlicense.org （本站僅將字型子集化為網站用到的字並轉為 WOFF2，授權不變）
+注音 IVS 字型規格與破音字詞庫（poyin_db.txt / phonic_table）
+Copyright 2020 But Ko，Apache License 2.0：http://www.apache.org/licenses/LICENSE-2.0
+本站依此詞庫產生「詞→異體選字符」對照，用於選擇破音字讀音。
