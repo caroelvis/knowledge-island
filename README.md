@@ -1,6 +1,6 @@
 # 知識島 學習冒險 🏝️
 
-給國小一～三年級孩子的練習遊戲（國語、數學、注音、生活、社會、自然、閱讀），題目依南一／康軒／翰林單元與均一教育平台的主題編排。
+給國小一～三年級孩子的練習遊戲（國語、數學、注音、生活、社會、自然、閱讀，三年級另有英文島），題目依南一／康軒／翰林單元與均一教育平台的主題編排。
 
 **開始玩：** https://caroelvis.github.io/knowledge-island/
 
@@ -14,3 +14,5 @@
 本站是純靜態網頁，沒有伺服器，也不收集任何資料。
 
 第三方元件：three.js、React（MIT 授權），見 [THIRD_PARTY_LICENSES](THIRD_PARTY_LICENSES)。島嶼模型與題目都是原創。
+
+[隱私權政策](https://caroelvis.github.io/knowledge-island/privacy.html)　·　[服務條款](https://caroelvis.github.io/knowledge-island/terms.html)
