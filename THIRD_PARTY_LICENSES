@@ -6,3 +6,12 @@ Microsoft Edge「大聲朗讀」線上神經語音產生：英語 en-US-JennyNeu
 這些語音檔由 Microsoft 的服務合成；Microsoft 沒有為這個免費端點公開明確的再散布授權，
 本站僅作非營利的家庭學習用途。若要商業使用或擔心條款，請改用 Azure AI Speech（付費、條款明確）
 或開源語音（例如 Piper）重新執行 web/gen-audio.py 產生。
+
+----
+均一教育平台 數學練習題（改編）— src/bankjunyi.ts
+來源：均一教育平台 https://www.junyiacademy.org/ （各題原練習題網址記錄於該檔每題的 credit 欄位，並在遊戲題目畫面連結）
+授權：創用 CC 姓名標示–非商業性–相同方式分享 3.0 台灣（CC BY-NC-SA 3.0 TW）
+  https://www.junyiacademy.org/about/licence
+  https://creativecommons.org/licenses/by-nc-sa/3.0/tw/
+修改：多格填答改為單一答案、需圖片的題目改寫為文字敘述、補上選項與解析。
+依相同方式分享條款，這些改編題目同樣以 CC BY-NC-SA 3.0 TW 釋出，僅供非商業使用。
